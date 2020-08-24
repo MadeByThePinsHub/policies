@@ -1,4 +1,4 @@
-# The Pins Team OSS Projects Maintership Policies
+# The Pins Team OSS Projects Maintainership Policies
 
 This repository contains all policies regarding how to maintain our OSS projects for both 
 CHN Board members and team members. We'll update the documentations as more stuff arises.
