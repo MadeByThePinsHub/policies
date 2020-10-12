@@ -50,7 +50,7 @@ by generating a new one and re-deploy the app.
 
 ### 2. Response
 
-After the initial assessment and containment to my best abilities, we will
+After the initial assessment and containment to our best abilities, we will
 document all actions taken in a response plan.
 
 ### 3. Remediation
