@@ -78,5 +78,5 @@ We learn about critical software updates and security threats from these sources
 
 1. GitHub Security Alerts
 2. Dependabot Dependency Updates
-3. GitHub: https://status.github.com/ & [@githubstatus](https://twitter.com/githubstatus)
+3. GitHub: https://www.githubstatus.com/ & [@githubstatus](https://twitter.com/githubstatus)
 4. GitLab.com: https://status.gitlab.com/ & [@gitlabstatus](https://twitter.com/gitlabstatus)
