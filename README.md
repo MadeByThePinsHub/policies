@@ -17,6 +17,8 @@ as an Git submodule.
 whenever it's the production-grade one on GitLab Pages/Render/GitHub Pages or from your local/cloud dev
 environment running `mkdocs serve`.
 
+That script will also nuke any files in `.github` to avoid having extra MBs of build files used on our GitLab Pages storage.
+
 [handbook]: https://en.handbooksbythepins.gq/community-hub/oss-policies
 
 ## Disclaimer
