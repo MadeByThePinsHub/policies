@@ -1,4 +1,6 @@
-# Contributor Covenant Code of Conduct
+# The Pins Team Community Code of Conduct
+
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](#attribution)
 
 ## Our Pledge
 
@@ -67,7 +69,16 @@ All complaints will be reviewed and investigated promptly and fairly.
 [report-form]: https://rtapp.tk/codeofconduct-violations-reportform
 
 All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+reporter of any incident, including community maintainers and leaders outside
+The Pins Team's communities and platforms.
+
+In case the link or email above don't work and happened on one of our open source projects'
+community spaces (issue tracker, IRC/chat, forums, etc) or the communities we moderated within
+our platforms, please speak to an team member or an community maintainer that's not involved in the
+incident privately. If they're not available, Andrei Jiroh can be reachable through
+[Matrix](https://matrix.to/#/@haliliaj06jiroh:matrix.org), [Telegram](https://t.me/ajhalili2006),
+or through email on his personal address at `ajhalili2006@gmail.com`. If happened on other communities,
+which maybe out of scope for enforcing this CoC, please consult their code of conduct instead.
 
 ## Enforcement Guidelines
 
@@ -133,3 +144,15 @@ at [https://www.contributor-covenant.org/translations][translations].
 [Mozilla CoC]: https://github.com/mozilla/diversity
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
+
+## Changelog and Feedback
+
+You can see previous changes to our Community Code of Conduct online at
+<https://github.com/MadeByThePinsHub/policies/commits/master/CODE_OF_CONDUCT.md>.
+
+Have more questions? [File an new issue here][issue-tracker] and we'll reply. Questions
+and inquiries about Contributor Convenant in general will be closed with notice that
+you should take the issue upstream instead.
+
+<!-- currently broken but will be fixed in the future -->
+[issue-tracker]: https://gitlab.com/MadeByThePinsHub/community-guidelines/issues
